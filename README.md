@@ -1,4 +1,4 @@
-# springbootshiro
+# springboot-shiro
 
 
 springboot整合shiro和thymeleaf 实现认证与授权 使用MySQL数据库和阿里的druid连接池，mybatis使用xml配置方式，
